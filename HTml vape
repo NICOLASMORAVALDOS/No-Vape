@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>No-Nicotine - The FreeFlow Vape</title>
+  <link rel="stylesheet" href="style.css"> <!-- You can create a separate CSS file for styling -->
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="products.html">Product Prices</a></li>
+        <li><a href="features.html">Product Features</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Home Section -->
+  <section id="home">
+    <div class="container">
+      <h1>No-Nicotine - The FreeFlow Vape</h1>
+      <p>The FreeFlow Vape offers an exceptional vaping experience without the harmful effects of nicotine. Crafted with precision and care, this sleek and user-friendly device delivers smooth, satisfying vapor clouds that are free from addictive substances. With a wide range of delectable flavors to choose from, users can indulge in the sensory pleasure of vaping while safeguarding their long-term health.</p>
+      <a href="products.html" class="cta-button">Buy Now</a>
+    </div>
+  </section>
+
+  <!-- About Us Section -->
+  <section id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <!-- Add your about us content here -->
+    </div>
+  </section>
+
+  <!-- Product Prices Section -->
+  <section id="products">
+    <div class="container">
+      <h2>Product Prices</h2>
+      <!-- Add your product prices content here -->
+    </div>
+  </section>
+
+  <!-- Product Features Section -->
+  <section id="features">
+    <div class="container">
+      <h2>Product Features</h2>
+      <!-- Add your product features content here -->
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <div class="container">
+      <h2>Contact</h2>
+      <!-- Add your contact form or contact information here -->
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>&copy; 2023 No-Nicotine - The FreeFlow Vape. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
